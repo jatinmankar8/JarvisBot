@@ -15,7 +15,7 @@
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Contribute](#contribute)
-- [Acknowledgement](#Acknowledgement)
+- [Acknowledgment](#Acknowledgment)
 
 ## Introduction
 
